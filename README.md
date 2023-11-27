@@ -2,4 +2,4 @@
 2 Assignment:
 
 1.Wp plugin
-2. React Display
+2.React Display
